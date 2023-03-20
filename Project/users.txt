@@ -1,0 +1,7 @@
+admin,$2y$10$Zwoff6RKEm9dswE7co4Tv.U8sXiKup82Ea8QbzRssJDEhjXuA96GG,admin,admin@gmail.com 
+d,$2y$10$yTX2wwihibvNx6oNJVb8n.XgH6lV69wlArMVw4Il.2ISTE2FkPOCm,doctor,d@gmail.com 
+p,$2y$10$ZpGXh.disx2PfQWKVFahe.4o0QLS2mmY27NDHaQHRAlUaIai.RpdS,patient,p@gmail.com 
+p1,$2y$10$jmznh7QvmoCtKK1GfzTbguNMmzVKwoeEUzvtSwLLPF8o99pPl9qu2,patient,p1@gmail.com 
+p3,$2y$10$hzl680m5gs99vrgQrunZC.QKpGxu9gAqvFVci/fT/.5F00kdCn21C,patient,p3@gmail.com 
+fahim,$2y$10$oyuFUxg0fpTPalYMnFpxRuvV2StirIxvaF0ya1f1laeZX2NgEKrDq,doctor,shahnawasfahim@gmail.com 
+rabbi,$2y$10$pA6vrzZ1VuwIbPJpdIR15uvv6CGbcRkehxSnTbxkQ6C1jMCZBcWoG,patient,rabbi@gmail.com 
