@@ -5,6 +5,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    body {
+        background-color: #b6cfd1;
+        padding-top: 10px;
+        padding-right:10px;
+      }
+      input[type="submit"] {
+        background-color: #0faff2;
+        padding:5px;
+        border-radius:3px;
+        color:white;
+        border: none;
+        font-size:20px;
+      }
+      input[type="submit"]:hover{
+        background-color: black;
+      }
+      img{
+        border-radius:10px;
+        width: 100%;
+      }
+     
+
+
+    </style>
+
+
+
     <title>Doctors Portal</title>
 </head>
 
@@ -43,7 +71,7 @@
 
     <section>
 
-        <img src="media/Banner.png" alt="" />
+        <img src="../media/Banner.png" alt="" />
     </section>
 
 

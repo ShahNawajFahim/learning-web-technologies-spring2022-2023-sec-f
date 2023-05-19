@@ -11,6 +11,6 @@ setcookie('doc-log-flag',true,time()-1,'/');
 setcookie('pat-log-flag',true,time()-1,'/');
 
 // Redirect to the login page
-header("Location: home.php");
+header("Location: ../views/home.php");
 exit();
 ?>
